@@ -1,6 +1,6 @@
 #!/bin/python3
 
-# Takes inputs as strings; converst to ints for math operations, then back to strings to print
+# Takes inputs as strings; converts to ints for math operations, then back to strings to print
 
 Var1= input("Type your value 1: ")
 Var2= input("Type your value 2: ")
