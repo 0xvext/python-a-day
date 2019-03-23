@@ -43,10 +43,3 @@ while myInt_1 > 0:
             myInt_2 -= 1
             myInt_3 -= 1
             print(myInt_1, myInt_2, myInt_3)  
-
-#    continue: Skip the rest of the current iteration of the loop and continue with the next iteration of the loop (if there is a next iteration).
-#    break: Skip the rest of the current iteration of the loop and break out of the loop altogether, skipping any later iterations, too.
-#    pass: Designate an 'empty' body for a control structure.
-
-
-
