@@ -2,7 +2,6 @@
 
 # Try/except practice
 
-
 def myFunc(a):
     print(1 / 0)
 
@@ -12,7 +11,6 @@ except (NameError, KeyError, IndexError):
     print("A known error occurred.")
 except:
     print("An unknown error occurred.")
-
 
 try:
     myFunc()
