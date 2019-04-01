@@ -1,6 +1,7 @@
 #!/bin/python3
 
 # Outputting message boxes of varying height
+# TODO: Fix line-wrapping for long inputs
 
 import os
 
